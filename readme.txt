@@ -1,9 +1,9 @@
-แบบฝึกหัดข้อ 2.1 ข้อ 1 -> exercise2_1/src/item1.java
-แบบฝึกหัดข้อ 2.1 ข้อ 2 -> exercise2_1/src/item2.java
-แบบฝึกหัดข้อ 2.1 ข้อ 3 -> exercise2_1/src/item3.java
-แบบฝึกหัดข้อ 2.2 ข้อ 1 -> exercise2_2/src/item1.java
-แบบฝึกหัดข้อ 2.2 ข้อ 2 -> exercise2_2/src/item2.java
-แบบฝึกหัดข้อ 2.2 ข้อ 3 -> exercise2_2/src/item3.java
+แบบฝึกหัดข้อ 2.1 ข้อ 1 -> exercise2.1/src/item1.java
+แบบฝึกหัดข้อ 2.1 ข้อ 2 -> exercise2.1/src/item2.java
+แบบฝึกหัดข้อ 2.1 ข้อ 3 -> exercise2.1/src/item3.java
+แบบฝึกหัดข้อ 2.2 ข้อ 1 -> exercise2.2/src/item1.java
+แบบฝึกหัดข้อ 2.2 ข้อ 2 -> exercise2.2/src/item2.java
+แบบฝึกหัดข้อ 2.2 ข้อ 3 -> exercise2.2/src/item3.java
 แบบฝึกหัดข้อ 3 ข้อ 1 -> exercise3/src/item1.java
 แบบฝึกหัดข้อ 3 ข้อ 2 -> exercise3/src/item2.java
 แบบฝึกหัดข้อ 3 ข้อ 3 -> exercise3/src/item3.java
